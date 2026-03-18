@@ -53,7 +53,7 @@ This project showcases a clean, minimal, and visually appealing **winter fashion
 
 ## 📸 Preview
 
-<img src="https://via.placeholder.com/1000x500?text=Penguin+Fashion+Preview" />
+ src="https://via.placeholder.com/1000x500?text=Penguin+Fashion+Preview" />](https://nafisatabassumnusrat.github.io/Penguin-Fashion-Ph-Assignment-2/)
 
 ---
 
