@@ -1,7 +1,6 @@
-# 🐧 Penguin Fashion
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=🐼%20Penguin%20Fashion%20–%20Modern%20E-Commerce%20Landing%20Page&fontSize=27&reversal=true" />
 
-# 🐼 Penguin Fashion — Modern E-Commerce Landing Page
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=🐧%20Penguin%20Fashion%20–%20Modern%20E-Commerce%20Landing%20Page&fontSize=27&reversal=true" />
+ # 🐧 Penguin Fashion — Modern E-Commerce Landing Page
 
 ✨ A stylish and responsive fashion landing page built with modern UI/UX principles using Tailwind CSS.
 
@@ -116,5 +115,4 @@ If you like this project:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&text=Built%20with%20❤️%20by%20Nusrat&fontSize=25" />
-# Penguin-Fashion-Ph-Assignment-2
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&text=Built%20Penguin%20Fashion%20Ph%20Assignment%202%20by%20Nusrat&fontSize=25" />
